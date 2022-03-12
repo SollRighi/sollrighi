@@ -1,4 +1,4 @@
-### Hi there 👋
+## Prazer, sou a Solange, mais conhecida como Sol, seja bem vindo ao meu perfil.😄
 
 <div> 
   <a href="https://instagram.com/soll.righi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
